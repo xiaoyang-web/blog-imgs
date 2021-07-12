@@ -1,2 +1,2 @@
 # blog-imgs
-alva-yky'blog imgs
+alva'blog imgs
